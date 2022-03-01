@@ -1,100 +1,21 @@
 {
   "articles": [
     {
-      "titre": "avec un titre",
-      "contenu": "un peu de contenu",
-      "categorie": "node",
-      "id": 1
+      "titre": "un nouvel article",
+      "contenu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum nibh id orci commodo pellentesque. Maecenas vitae ligula vitae lorem consequat euismod. Vestibulum efficitur arcu quis tortor venenatis congue. Curabitur a velit orci. Nullam elementum maximus risus,",
+      "categorie": "angular"
     },
     {
-      "titre": "autre essai",
-      "contenu": "toto",
-      "categorie": "node",
-      "id": 2
+      "titre": "Modification du titre",
+      "contenu": "Modification du contenu",
+      "categorie": "angular",
+      "id": 5
     },
     {
       "titre": "aa",
       "contenu": "aa",
-      "categorie": "angular",
-      "id": 3
-    },
-    {
-      "titre": "titre",
-      "contenu": "aa",
       "categorie": "node",
-      "articles": [
-        {
-          "titre": "avec un titre",
-          "contenu": "un peu de contenu",
-          "categorie": "node",
-          "id": 1
-        },
-        {
-          "titre": "autre essai",
-          "contenu": "toto",
-          "categorie": "node",
-          "id": 2
-        },
-        {
-          "titre": "aa",
-          "contenu": "aa",
-          "categorie": "angular",
-          "id": 3
-        }
-      ],
-      "id": 4
-    },
-    {
-      "titre": "papa",
-      "contenu": "zzz",
-      "categorie": "",
-      "articles": [
-        {
-          "titre": "avec un titre",
-          "contenu": "un peu de contenu",
-          "categorie": "node",
-          "id": 1
-        },
-        {
-          "titre": "autre essai",
-          "contenu": "toto",
-          "categorie": "node",
-          "id": 2
-        },
-        {
-          "titre": "aa",
-          "contenu": "aa",
-          "categorie": "angular",
-          "id": 3
-        },
-        {
-          "titre": "titre",
-          "contenu": "aa",
-          "categorie": "node",
-          "articles": [
-            {
-              "titre": "avec un titre",
-              "contenu": "un peu de contenu",
-              "categorie": "node",
-              "id": 1
-            },
-            {
-              "titre": "autre essai",
-              "contenu": "toto",
-              "categorie": "node",
-              "id": 2
-            },
-            {
-              "titre": "aa",
-              "contenu": "aa",
-              "categorie": "angular",
-              "id": 3
-            }
-          ],
-          "id": 4
-        }
-      ],
-      "id": 5
+      "id": 6
     }
   ]
 }
